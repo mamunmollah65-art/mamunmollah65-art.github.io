@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.mamunmollah65_art.twa",
+        "sha256_cert_fingerprints": ["B4:95:1A:2D:20:78:B2:93:EA:F4:9E:52:CC:94:AF:FB:A6:D8:09:3D:C3:43:FB:B7:F4:C5:53:87:B9:0B:FD:F8"]
+      }
+    }]
